@@ -1,0 +1,15 @@
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+.text-box-green {
+  border-color: green;
+}
+
+.text-box-red {
+  border-color: red;
+}
